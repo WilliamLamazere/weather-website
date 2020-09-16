@@ -13,7 +13,6 @@
     "express": "^4.16.4",
     "hbs": "^4.0.1",
     "nodemon": "^2.0.4",
-    "request": "^2.88.0",
-    "start": "nodemon app.js"
+    "request": "^2.88.0"
   }
 }
